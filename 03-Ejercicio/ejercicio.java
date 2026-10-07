@@ -1,3 +1,6 @@
+/*
+Ejercicio escolar numero 3.
+ */
 import java.util.Scanner;
 
 public class ejercicio {

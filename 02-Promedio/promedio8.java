@@ -6,6 +6,8 @@ public class promedio8 {
         Scanner entrada = new Scanner(System.in);
         int Cali1, Cali2;
         float Promedio;
+
+
         System.out.println("Ingresa la primera calificacion: ");
         Cali1 = entrada.nextInt();
         System.out.println("Ingresa la segunda calificacion: ");
